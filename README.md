@@ -1,7 +1,7 @@
 # Evaluation-of-Word-Blends
 COMP90049 Introduction to Machine Learning Assignment 1 2019 s2
 
-Final score: 20/20
+`Final score: 20/20`
 
 - To compile, run:
    ```bash
